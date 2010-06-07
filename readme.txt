@@ -20,7 +20,12 @@ Ru: обновляет статус в соотвествие с вашим по
 En: updates the status of a match with your post in wordpress blog
 
 == Installation ==
-Not special - simple upload to plugins directory and activite at control panel
+Ru
+Просто залейте и активируйте
+
+EN:
+* Upload friendfeed-status-updater direcory to the /wp-content/plugins/friendfeed-status-updater directory
+* Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==
 Waiting for Questions
